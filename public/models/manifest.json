@@ -1,0 +1,316 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3",
+  "variant": "Object set 4.3, ontology tree FMA3.0; official IS-A concept-to-element mapping",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "sourceLicenseStatement": "https://lifesciencedb.jp/bp3d/info/index.html#License",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science. CC BY-SA 2.1 Japan. Adapted by OrganUI.",
+  "mirror": {
+    "repository": "https://github.com/olivercase/body_parts_3d_api",
+    "commit": "fd527e6f4daf732fd814314d9257df5877b844bc"
+  },
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -87.5754,
+        -132.426,
+        946.779
+      ],
+      "max": [
+        90.383,
+        -59.5914,
+        1125
+      ]
+    },
+    "centerMm": [
+      1.4037999999999968,
+      -96.00869999999999,
+      1035.8895
+    ],
+    "scale": 0.016,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "adrenals.glb",
+    "bytes": 552428,
+    "sha256": "5120820daf70658f11987ecde639fe3e10c3a738df78af1d265ecadcf41b44b6"
+  },
+  "structures": [
+    {
+      "id": "right-adrenal-gland",
+      "fma": "FMA15629",
+      "concepts": [
+        "FMA15629"
+      ],
+      "sourceName": "right adrenal gland",
+      "elements": [
+        {
+          "element": "FJ3130",
+          "concept": "FMA15629",
+          "sourceName": "Right adrenal gland",
+          "sha256": "657a496166291cbe2390aef7d55b3cc844fcae292317e8fca6a70d5bfa11ede7",
+          "bytes": 137511,
+          "vertices": 1149,
+          "triangles": 2294
+        }
+      ]
+    },
+    {
+      "id": "left-adrenal-gland",
+      "fma": "FMA15630",
+      "concepts": [
+        "FMA15630"
+      ],
+      "sourceName": "left adrenal gland",
+      "elements": [
+        {
+          "element": "FJ3129",
+          "concept": "FMA15630",
+          "sourceName": "Left adrenal gland",
+          "sha256": "bb76f6a00354e29ec48fc9a3448ddb78cefc68cb23d178d2039dfff5a4f511ba",
+          "bytes": 247067,
+          "vertices": 2000,
+          "triangles": 3996
+        }
+      ]
+    },
+    {
+      "id": "right-kidney",
+      "fma": "FMA7204",
+      "concepts": [
+        "FMA7204"
+      ],
+      "sourceName": "right kidney",
+      "elements": [
+        {
+          "element": "FJ3147",
+          "concept": "FMA7204",
+          "sourceName": "Right kidney",
+          "sha256": "df2a928327de5d6ec21987274d6af704d49d12306786c9a75469c5ee89070b2b",
+          "bytes": 139034,
+          "vertices": 1163,
+          "triangles": 2310
+        }
+      ]
+    },
+    {
+      "id": "left-kidney",
+      "fma": "FMA7205",
+      "concepts": [
+        "FMA7205"
+      ],
+      "sourceName": "left kidney",
+      "elements": [
+        {
+          "element": "FJ3145",
+          "concept": "FMA7205",
+          "sourceName": "Left kidney",
+          "sha256": "6284a5129713c3456d2d29ac4eaa450d68ea879a005d4abd84307cfd73541dcd",
+          "bytes": 181911,
+          "vertices": 1497,
+          "triangles": 2982
+        }
+      ]
+    },
+    {
+      "id": "aorta",
+      "fma": "FMA3784",
+      "concepts": [
+        "FMA3784"
+      ],
+      "sourceName": "descending aorta",
+      "elements": [
+        {
+          "element": "FJ3427",
+          "concept": "FMA3784",
+          "sourceName": "Descending aorta",
+          "sha256": "5d461cda0a71eaa0136f3a13bf1938ad7660ee3e4cc1750eb4ac865c91ba4668",
+          "bytes": 288865,
+          "vertices": 994,
+          "triangles": 1948,
+          "keepBelowMm": 1125,
+          "sourceTriangles": 4562
+        }
+      ]
+    },
+    {
+      "id": "middle-suprarenal-arteries",
+      "fma": "FMA14755",
+      "concepts": [
+        "FMA14755",
+        "FMA14756"
+      ],
+      "sourceName": "right and left middle suprarenal arteries",
+      "elements": [
+        {
+          "element": "FJ3586",
+          "concept": "FMA14755",
+          "sourceName": "Right middle suprarenal artery",
+          "sha256": "74825b8688c1331ac4986e2317a092dc4adaad63e9d5e4ca4a26addfce56f91d",
+          "bytes": 56143,
+          "vertices": 625,
+          "triangles": 654
+        },
+        {
+          "element": "FJ3472",
+          "concept": "FMA14756",
+          "sourceName": "Left middle suprarenal artery",
+          "sha256": "8d79a9c657dcfe9a5417dcb2ae7c19a46f700dc4694399d3864e7892ea4c7763",
+          "bytes": 47105,
+          "vertices": 540,
+          "triangles": 552
+        }
+      ]
+    },
+    {
+      "id": "inferior-suprarenal-arteries",
+      "fma": "FMA69265",
+      "concepts": [
+        "FMA69265",
+        "FMA69266"
+      ],
+      "sourceName": "right and left inferior suprarenal arteries",
+      "elements": [
+        {
+          "element": "FJ3584",
+          "concept": "FMA69265",
+          "sourceName": "Right inferior suprarenal artery",
+          "sha256": "796ca8f605990842a640759ff75938e1d8e3a96765b6c825917b0d9933a5e50e",
+          "bytes": 58000,
+          "vertices": 606,
+          "triangles": 754
+        },
+        {
+          "element": "FJ3467",
+          "concept": "FMA69266",
+          "sourceName": "Left inferior suprarenal artery",
+          "sha256": "67aae1febcfdba2d992b229f20a3286b9c68da9d881cda4be541f31a31cd625b",
+          "bytes": 74871,
+          "vertices": 810,
+          "triangles": 954
+        }
+      ]
+    },
+    {
+      "id": "renal-arteries",
+      "fma": "FMA66363",
+      "concepts": [
+        "FMA66363",
+        "FMA66364"
+      ],
+      "sourceName": "trunks of right and left renal arteries",
+      "elements": [
+        {
+          "element": "FJ3576",
+          "concept": "FMA66363",
+          "sourceName": "Trunk of right renal artery",
+          "sha256": "e282311345a6c464bb87c82a03132532951f4519e7d04d93ea099922ef87db56",
+          "bytes": 16072,
+          "vertices": 145,
+          "triangles": 282
+        },
+        {
+          "element": "FJ3476",
+          "concept": "FMA66364",
+          "sourceName": "Trunk of left renal artery",
+          "sha256": "dfe5b3712f2940b5adfcd6d545b9964f77749f17fa5d9c2d888e451a832304e9",
+          "bytes": 14449,
+          "vertices": 132,
+          "triangles": 258
+        }
+      ]
+    },
+    {
+      "id": "right-suprarenal-vein",
+      "fma": "FMA14343",
+      "concepts": [
+        "FMA14343"
+      ],
+      "sourceName": "right suprarenal vein",
+      "elements": [
+        {
+          "element": "FJ3580",
+          "concept": "FMA14343",
+          "sourceName": "Right suprarenal vein",
+          "sha256": "459c1532fd74bedf80e077b32edc0d04b247cbfcb05de0be9f83209541ba4436",
+          "bytes": 45751,
+          "vertices": 474,
+          "triangles": 608
+        }
+      ]
+    },
+    {
+      "id": "left-suprarenal-vein",
+      "fma": "FMA14349",
+      "concepts": [
+        "FMA14349"
+      ],
+      "sourceName": "left suprarenal vein",
+      "elements": [
+        {
+          "element": "FJ3480",
+          "concept": "FMA14349",
+          "sourceName": "Left suprarenal vein",
+          "sha256": "3f05ab068e7c3f116cfde9fc52be00fd2579f5989de5db89bfea3e7472120768",
+          "bytes": 47130,
+          "vertices": 476,
+          "triangles": 674
+        }
+      ]
+    },
+    {
+      "id": "inferior-vena-cava",
+      "fma": "FMA10951",
+      "concepts": [
+        "FMA10951"
+      ],
+      "sourceName": "inferior vena cava",
+      "elements": [
+        {
+          "element": "FJ3659",
+          "concept": "FMA10951",
+          "sourceName": "Inferior vena cava",
+          "sha256": "e795b17885e03eb14174a527ebc0467b003fd1dc3e5b96c7a327e21b3dc4fe5b",
+          "bytes": 107088,
+          "vertices": 968,
+          "triangles": 1670
+        }
+      ]
+    },
+    {
+      "id": "renal-veins",
+      "fma": "FMA14335",
+      "concepts": [
+        "FMA14335",
+        "FMA14336"
+      ],
+      "sourceName": "right and left renal veins",
+      "elements": [
+        {
+          "element": "FJ3577",
+          "concept": "FMA14335",
+          "sourceName": "Right renal vein",
+          "sha256": "99c61ccf20105b8ffac8c35c4307af9d5ef917e12060803408d42ebf5e4d112b",
+          "bytes": 19111,
+          "vertices": 172,
+          "triangles": 332
+        },
+        {
+          "element": "FJ3477",
+          "concept": "FMA14336",
+          "sourceName": "Left renal vein",
+          "sha256": "938dabbef109d83bacb61fb592ab14ac2e51a8306ce207d4012af816a9557a55",
+          "bytes": 38139,
+          "vertices": 334,
+          "triangles": 652
+        }
+      ]
+    }
+  ]
+}

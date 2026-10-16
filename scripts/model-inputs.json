@@ -1,0 +1,154 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ3130",
+      "file": "FJ3130.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3130_BP23803_FMA15629_Right%20adrenal%20gland.obj",
+      "sha256": "657a496166291cbe2390aef7d55b3cc844fcae292317e8fca6a70d5bfa11ede7",
+      "bytes": 137511,
+      "mirrorPath": "meshes/FJ3130_BP23803_FMA15629_Right adrenal gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3130_BP23803_FMA15629_Right%20adrenal%20gland.obj"
+    },
+    {
+      "id": "FJ3129",
+      "file": "FJ3129.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3129_BP22924_FMA15630_Left%20adrenal%20gland.obj",
+      "sha256": "bb76f6a00354e29ec48fc9a3448ddb78cefc68cb23d178d2039dfff5a4f511ba",
+      "bytes": 247067,
+      "mirrorPath": "meshes/FJ3129_BP22924_FMA15630_Left adrenal gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3129_BP22924_FMA15630_Left%20adrenal%20gland.obj"
+    },
+    {
+      "id": "FJ3147",
+      "file": "FJ3147.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3147_BP23801_FMA7204_Right%20kidney.obj",
+      "sha256": "df2a928327de5d6ec21987274d6af704d49d12306786c9a75469c5ee89070b2b",
+      "bytes": 139034,
+      "mirrorPath": "meshes/FJ3147_BP23801_FMA7204_Right kidney.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3147_BP23801_FMA7204_Right%20kidney.obj"
+    },
+    {
+      "id": "FJ3145",
+      "file": "FJ3145.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3145_BP21596_FMA7205_Left%20kidney.obj",
+      "sha256": "6284a5129713c3456d2d29ac4eaa450d68ea879a005d4abd84307cfd73541dcd",
+      "bytes": 181911,
+      "mirrorPath": "meshes/FJ3145_BP21596_FMA7205_Left kidney.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3145_BP21596_FMA7205_Left%20kidney.obj"
+    },
+    {
+      "id": "FJ3427",
+      "file": "FJ3427.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3427_BP23707_FMA3784_Descending%20aorta.obj",
+      "sha256": "5d461cda0a71eaa0136f3a13bf1938ad7660ee3e4cc1750eb4ac865c91ba4668",
+      "bytes": 288865,
+      "mirrorPath": "meshes/FJ3427_BP23707_FMA3784_Descending aorta.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3427_BP23707_FMA3784_Descending%20aorta.obj",
+      "keepBelowMm": 1125
+    },
+    {
+      "id": "FJ3586",
+      "file": "FJ3586.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3586_BP21829_FMA14755_Right%20middle%20suprarenal%20artery.obj",
+      "sha256": "74825b8688c1331ac4986e2317a092dc4adaad63e9d5e4ca4a26addfce56f91d",
+      "bytes": 56143,
+      "mirrorPath": "meshes/FJ3586_BP21829_FMA14755_Right middle suprarenal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3586_BP21829_FMA14755_Right%20middle%20suprarenal%20artery.obj"
+    },
+    {
+      "id": "FJ3472",
+      "file": "FJ3472.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3472_BP23927_FMA14756_Left%20middle%20suprarenal%20artery.obj",
+      "sha256": "8d79a9c657dcfe9a5417dcb2ae7c19a46f700dc4694399d3864e7892ea4c7763",
+      "bytes": 47105,
+      "mirrorPath": "meshes/FJ3472_BP23927_FMA14756_Left middle suprarenal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3472_BP23927_FMA14756_Left%20middle%20suprarenal%20artery.obj"
+    },
+    {
+      "id": "FJ3584",
+      "file": "FJ3584.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3584_BP21938_FMA69265_Right%20inferior%20suprarenal%20artery.obj",
+      "sha256": "796ca8f605990842a640759ff75938e1d8e3a96765b6c825917b0d9933a5e50e",
+      "bytes": 58000,
+      "mirrorPath": "meshes/FJ3584_BP21938_FMA69265_Right inferior suprarenal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3584_BP21938_FMA69265_Right%20inferior%20suprarenal%20artery.obj"
+    },
+    {
+      "id": "FJ3467",
+      "file": "FJ3467.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3467_BP22653_FMA69266_Left%20inferior%20suprarenal%20artery.obj",
+      "sha256": "67aae1febcfdba2d992b229f20a3286b9c68da9d881cda4be541f31a31cd625b",
+      "bytes": 74871,
+      "mirrorPath": "meshes/FJ3467_BP22653_FMA69266_Left inferior suprarenal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3467_BP22653_FMA69266_Left%20inferior%20suprarenal%20artery.obj"
+    },
+    {
+      "id": "FJ3576",
+      "file": "FJ3576.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3576_BP24071_FMA66363_Trunk%20of%20right%20renal%20artery.obj",
+      "sha256": "e282311345a6c464bb87c82a03132532951f4519e7d04d93ea099922ef87db56",
+      "bytes": 16072,
+      "mirrorPath": "meshes/FJ3576_BP24071_FMA66363_Trunk of right renal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3576_BP24071_FMA66363_Trunk%20of%20right%20renal%20artery.obj"
+    },
+    {
+      "id": "FJ3476",
+      "file": "FJ3476.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3476_BP22669_FMA66364_Trunk%20of%20left%20renal%20artery.obj",
+      "sha256": "dfe5b3712f2940b5adfcd6d545b9964f77749f17fa5d9c2d888e451a832304e9",
+      "bytes": 14449,
+      "mirrorPath": "meshes/FJ3476_BP22669_FMA66364_Trunk of left renal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3476_BP22669_FMA66364_Trunk%20of%20left%20renal%20artery.obj"
+    },
+    {
+      "id": "FJ3580",
+      "file": "FJ3580.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3580_BP23962_FMA14343_Right%20suprarenal%20vein.obj",
+      "sha256": "459c1532fd74bedf80e077b32edc0d04b247cbfcb05de0be9f83209541ba4436",
+      "bytes": 45751,
+      "mirrorPath": "meshes/FJ3580_BP23962_FMA14343_Right suprarenal vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3580_BP23962_FMA14343_Right%20suprarenal%20vein.obj"
+    },
+    {
+      "id": "FJ3480",
+      "file": "FJ3480.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3480_BP21800_FMA14349_Left%20suprarenal%20vein.obj",
+      "sha256": "3f05ab068e7c3f116cfde9fc52be00fd2579f5989de5db89bfea3e7472120768",
+      "bytes": 47130,
+      "mirrorPath": "meshes/FJ3480_BP21800_FMA14349_Left suprarenal vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3480_BP21800_FMA14349_Left%20suprarenal%20vein.obj"
+    },
+    {
+      "id": "FJ3659",
+      "file": "FJ3659.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3659_BP23720_FMA10951_Inferior%20vena%20cava.obj",
+      "sha256": "e795b17885e03eb14174a527ebc0467b003fd1dc3e5b96c7a327e21b3dc4fe5b",
+      "bytes": 107088,
+      "mirrorPath": "meshes/FJ3659_BP23720_FMA10951_Inferior vena cava.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3659_BP23720_FMA10951_Inferior%20vena%20cava.obj"
+    },
+    {
+      "id": "FJ3577",
+      "file": "FJ3577.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3577_BP19745_FMA14335_Right%20renal%20vein.obj",
+      "sha256": "99c61ccf20105b8ffac8c35c4307af9d5ef917e12060803408d42ebf5e4d112b",
+      "bytes": 19111,
+      "mirrorPath": "meshes/FJ3577_BP19745_FMA14335_Right renal vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3577_BP19745_FMA14335_Right%20renal%20vein.obj"
+    },
+    {
+      "id": "FJ3477",
+      "file": "FJ3477.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3477_BP22197_FMA14336_Left%20renal%20vein.obj",
+      "sha256": "938dabbef109d83bacb61fb592ab14ac2e51a8306ce207d4012af816a9557a55",
+      "bytes": 38139,
+      "mirrorPath": "meshes/FJ3477_BP22197_FMA14336_Left renal vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3477_BP22197_FMA14336_Left%20renal%20vein.obj"
+    }
+  ]
+}
